@@ -11,3 +11,10 @@ header {
 #featured-property {
   text-align: center;
 }
+
+nav {
+  text-align: center;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: green;
+}
